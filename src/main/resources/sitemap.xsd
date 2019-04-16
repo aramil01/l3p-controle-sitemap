@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+        <xs:element name="urlset">
+            <xs:complexType>
+            <xs:attribute name="url" type="xs:string" />
+            <xs:attribute name="loc" type="xs:string" />
+            <xs:attribute name="lastmod" type="xs:string" />
+            </xs:complexType>
+        </xs:element>
+</xs:schema>
+
+
+
+
+
+
+
